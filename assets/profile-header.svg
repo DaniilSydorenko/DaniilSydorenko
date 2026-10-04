@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Daniil Sydorenko — Senior Software / Product Engineer</title>
+  <desc id="desc">Profile header focused on product engineering, systems, AI-assisted engineering, open source and geospatial work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="20%" r="55%">
+      <stop offset="0" stop-color="#2563eb" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <g opacity=".16" stroke="#93c5fd">
+    <path d="M0 248 H1200"/>
+    <path d="M0 214 H1200"/>
+    <path d="M930 0 V300"/>
+    <path d="M1000 0 V300"/>
+    <path d="M1070 0 V300"/>
+  </g>
+  <circle cx="1034" cy="88" r="58" fill="none" stroke="#60a5fa" stroke-width="2" opacity=".55"/>
+  <circle cx="1034" cy="88" r="34" fill="none" stroke="#22d3ee" stroke-width="2" opacity=".45"/>
+  <circle cx="1034" cy="88" r="6" fill="#93c5fd"/>
+  <path d="M976 88H918M1092 88h54M1034 146v62" stroke="#60a5fa" stroke-width="2" opacity=".45"/>
+  <text x="72" y="112" fill="#f8fafc" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="54" font-weight="700">Daniil Sydorenko</text>
+  <text x="74" y="158" fill="#93c5fd" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="600">Senior Software / Product Engineer</text>
+  <text x="74" y="207" fill="#cbd5e1" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="19">TypeScript · Frontend Systems · AI-assisted Engineering · OSS · Geospatial</text>
+  <text x="74" y="251" fill="#64748b" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15">build → verify → ship → learn</text>
+</svg>
