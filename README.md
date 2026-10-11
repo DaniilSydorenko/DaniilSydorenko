@@ -99,6 +99,31 @@ The stack is a toolset, not the story. I care more about **architecture, constra
 
 > Some current projects remain private while their public boundaries, documentation, security, and release surfaces are being prepared. I prefer publishing evolving work **honestly** rather than presenting unfinished systems as finished products.
 
+## Engineering ecosystem
+
+The current work is intentionally split by responsibility rather than presented as one oversized repository:
+
+```text
+Career Intelligence
+      ↓
+Engineering Handbook
+      ↓
+Engineering Labs
+      ↓
+Product / OSS work
+      ↓
+Verified evidence and iteration
+```
+
+- **Career Intelligence** — private canonical career/data system with provenance, reconciliation, confidence and public-safe projections.
+- **Engineering Handbook** — engineering theory, architecture, trade-offs and prerequisites.
+- **Engineering Labs** — hands-on missions that turn theory into practical engineering evidence.
+- **Ladvero / ListingKit** — real product engineering and end-to-end product ownership.
+- **Haversine Geolocation** — public OSS history, maintenance, package/release engineering and geospatial work.
+- **GitHub governance** — public repository standards, safety boundaries, CI/governance and controlled automation.
+
+The private repositories stay private until their own product, history, security and publication gates are satisfied. The public profile is a projection of verified work, not a mirror of private source material.
+
 ## How I engineer
 
 ```text
