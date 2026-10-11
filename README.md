@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/daniilsydorenko.com-111827?style=flat-square&logo=safari&logoColor=white)](https://daniilsydorenko.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DaniilSydorenko-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/DaniilSydorenko)
 
-**TypeScript · Frontend Systems · Product Engineering · AI-assisted Engineering · OSS · Geospatial**
+**Senior Product / Frontend Engineer · TypeScript · Frontend Systems · Product Engineering · AI-assisted Engineering · OSS**
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## What I build
 
-I’m a **Senior Software / Product Engineer** with a strong JavaScript/TypeScript and frontend-systems foundation. I work across product architecture, APIs and BFFs, developer tooling, testing, reliability, security, and practical AI-assisted engineering.
+I’m a **Senior Product / Frontend Engineer** with 12+ years of software-engineering experience and a strong JavaScript/TypeScript and frontend-systems foundation. I work across product architecture, APIs and BFFs, developer tooling, testing, reliability, security, and practical AI-assisted engineering.
 
 I’m especially interested in systems where the hard part is not drawing the UI, but making the whole thing **reliable, understandable, evolvable, and safe to operate**.
 
@@ -62,6 +62,15 @@ Using AI to accelerate research, implementation, review, and automation while ke
 </tr>
 </table>
 
+## At a glance
+
+| Signal | What it shows |
+|---|---|
+| **Product ownership** | End-to-end product engineering across frontend architecture, APIs/BFFs, data flows, delivery and iteration |
+| **Frontend depth** | TypeScript, Vue/Nuxt, React/Next.js, SSR, architecture, state, performance and testing |
+| **Systems mindset** | Reliability, security, observability, realtime behavior, CI and explicit engineering trade-offs |
+| **Open-source history** | [Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation) — historical OSS work modernized with current package, test, CI and release engineering |
+
 ## Engineering stack
 
 <p>
@@ -86,7 +95,7 @@ The stack is a toolset, not the story. I care more about **architecture, constra
 | 🛠 | **Ladvero** | AI-assisted product workflow: photos → draft → suggestions → human review → export | Private alpha |
 | 🧪 | **Engineering Labs** | Deliberate systems practice organized as `Mission → Stage → Scenario → Task` | Active · private |
 | 🧠 | **Engineering Handbook** | Canonical engineering theory and prerequisites that support deliberate practice | Active · private |
-| 🤖 | **Career Ecosystem** | Connects career evidence, knowledge, practice, real work, and verified engineering outcomes | Building · private |
+| 🤖 | **Career Intelligence / Career Ecosystem** | Data, provenance, reconciliation, learning priorities and verified engineering outcomes across the career system | Building · private |
 
 > Some current projects remain private while their public boundaries, documentation, security, and release surfaces are being prepared. I prefer publishing evolving work **honestly** rather than presenting unfinished systems as finished products.
 
