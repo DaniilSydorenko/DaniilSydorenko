@@ -91,11 +91,12 @@ The stack is a toolset, not the story. I care more about **architecture, constra
 
 | | Project | Engineering story | Status |
 |---|---|---|---|
-| 🌍 | **[Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation)** | Original geolocation OSS package; evolving from legacy package history toward modern OSS engineering | Public · modernization |
+| 🌍 | **[Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation)** | Original geolocation OSS package; modernized with TypeScript, CI, package/runtime compatibility, trusted publishing and a public V2 prerelease | Public · `2.0.0-alpha.1` |
 | 🛠 | **Ladvero** | AI-assisted product workflow: photos → draft → suggestions → human review → export | Private alpha |
 | 🧪 | **Engineering Labs** | Deliberate systems practice organized as `Mission → Stage → Scenario → Task` | Active · private |
 | 🧠 | **Engineering Handbook** | Canonical engineering theory and prerequisites that support deliberate practice | Active · private |
 | 🤖 | **Career Intelligence / Career Ecosystem** | Data, provenance, reconciliation, learning priorities and verified engineering outcomes across the career system | Building · private |
+| ⚙️ | **[GitHub Governance](https://github.com/DaniilSydorenko/.github)** | Git-native repository standards, policy-as-code, exact-head safety, publication boundaries and controlled automation | Public · active |
 
 > Some current projects remain private while their public boundaries, documentation, security, and release surfaces are being prepared. I prefer publishing evolving work **honestly** rather than presenting unfinished systems as finished products.
 
