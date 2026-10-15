@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Daniil Sydorenko — Senior Product / Frontend Engineer" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+  <img src="./assets/profile-header.svg" alt="Daniil Sydorenko — Senior Product / Frontend Engineer" width="100%" />
+</picture>
 
 <br />
 
