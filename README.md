@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Daniil Sydorenko — Senior Software / Product Engineer" width="100%" />
+<img src="./assets/profile-header.svg" alt="Daniil Sydorenko — Senior Product / Frontend Engineer" width="100%" />
 
 <br />
 
@@ -15,7 +15,7 @@
 
 ## What I build
 
-I’m a **Senior Product / Frontend Engineer** with 12+ years of software-engineering experience and a strong JavaScript/TypeScript and frontend-systems foundation. I work across product architecture, APIs and BFFs, developer tooling, testing, reliability, security, and practical AI-assisted engineering.
+I’m a **Senior Product / Frontend Engineer** with 12+ years of software-engineering experience. At **Klarna**, I work on Vue/Nuxt SSR modernization and product workflows; previously, I spent nearly four years working with React/TypeScript micro-frontends at **Allegro**. My focus spans frontend architecture, product flows, API/BFF integration, reliability, and practical AI-assisted engineering.
 
 **Public engineering proof:** [Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation) — TypeScript OSS, consumer testing and prerelease engineering · [GitHub Governance](https://github.com/DaniilSydorenko/.github) — policy-as-code, CI validation and publication boundaries. Private projects below are shown as work in progress.
 
