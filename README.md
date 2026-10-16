@@ -20,7 +20,7 @@
 
 I’m a **Senior Product / Frontend Engineer** with 12+ years of software-engineering experience. At **Klarna**, I work on Vue/Nuxt SSR modernization and product workflows; previously, I spent nearly four years working with React/TypeScript micro-frontends at **Allegro**. My focus spans frontend architecture, product flows, API/BFF integration, reliability, and practical AI-assisted engineering.
 
-**Public engineering proof:** [Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation) — TypeScript OSS, consumer testing and prerelease engineering · [GitHub Governance](https://github.com/DaniilSydorenko/.github) — policy-as-code, CI validation and publication boundaries. Private projects below are shown as work in progress.
+**Public engineering proof:** [Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation) — TypeScript OSS, [V2 beta published on GitHub](https://github.com/DaniilSydorenko/haversine-geolocation/releases/tag/v2.0.0-beta.1) with consumer and compatibility verification · [GitHub Governance](https://github.com/DaniilSydorenko/.github) — policy-as-code, CI validation and publication boundaries. Private projects below are shown as work in progress.
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ The stack is a toolset, not the story. I care more about **architecture, constra
 
 | | Project | Engineering story | Status |
 |---|---|---|---|
-| 🌍 | **[Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation)** | Original geolocation OSS package; modernized with TypeScript, CI, package/runtime compatibility, trusted publishing and a public V2 prerelease | Public · `2.0.0-alpha.1` |
+| 🌍 | **[Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation)** | Original geolocation OSS package; TypeScript V2 beta on GitHub, consumer/browser compatibility checks and a distinct legacy migration boundary | Public · GitHub `v2.0.0-beta.1` |
 | 🛠 | **Ladvero** | AI-assisted product workflow: photos → draft → suggestions → human review → export | Private alpha |
 | 🧪 | **Engineering Labs** | Deliberate systems practice organized as `Mission → Stage → Scenario → Task` | Active · private |
 | 🧠 | **Engineering Handbook** | Canonical engineering theory and prerequisites that support deliberate practice | Active · private |
