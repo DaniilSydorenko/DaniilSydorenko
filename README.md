@@ -22,18 +22,11 @@ I’m a **Senior Product / Frontend Engineer** with 12+ years of software-engine
 
 **Public engineering proof:** [Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation) — TypeScript OSS, [V2 beta published on GitHub](https://github.com/DaniilSydorenko/haversine-geolocation/releases/tag/v2.0.0-beta.1) with consumer and compatibility verification · [GitHub Governance](https://github.com/DaniilSydorenko/.github) — policy-as-code, CI validation and publication boundaries. Private projects below are shown as work in progress.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛠 Product engineering
 
 Building real product flows across frontend, backend integration, data, infrastructure, and delivery.
 
 **Current:** Ladvero — AI-assisted marketplace listing workflows with human review and control.
-
-</td>
-<td width="50%" valign="top">
 
 ### 🧪 Engineering systems
 
@@ -41,29 +34,17 @@ Practicing architecture, reliability, realtime behavior, security, observability
 
 **Current:** Engineering Labs.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌍 Open source & geospatial
 
 Returning to original OSS work while exploring geospatial systems and products.
 
 **Public:** [Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation).
 
-</td>
-<td width="50%" valign="top">
-
 ### 🤖 AI-assisted engineering
 
 Using AI to accelerate research, implementation, review, and automation while keeping engineering judgment and verification explicit.
 
 **Current:** Career Ecosystem and engineering automation.
-
-</td>
-</tr>
-</table>
 
 ## At a glance
 
@@ -92,14 +73,23 @@ The stack is a toolset, not the story. I care more about **architecture, constra
 
 ## Selected engineering work
 
-| | Project | Engineering story | Status |
-|---|---|---|---|
-| 🌍 | **[Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation)** | Original geolocation OSS package; TypeScript V2 beta on GitHub, consumer/browser compatibility checks and a distinct legacy migration boundary | Public · GitHub `v2.0.0-beta.1` |
-| 🛠 | **Ladvero** | AI-assisted product workflow: photos → draft → suggestions → human review → export | Private alpha |
-| 🧪 | **Engineering Labs** | Deliberate systems practice organized as `Mission → Stage → Scenario → Task` | Active · private |
-| 🧠 | **Engineering Handbook** | Canonical engineering theory and prerequisites that support deliberate practice | Active · private |
-| 🤖 | **Career Intelligence / Career Ecosystem** | Data, provenance, reconciliation, learning priorities and verified engineering outcomes across the career system | Building · private |
-| ⚙️ | **[GitHub Governance](https://github.com/DaniilSydorenko/.github)** | Git-native repository standards, policy-as-code, exact-head safety, publication boundaries and controlled automation | Public · active |
+- 🌍 **[Haversine Geolocation](https://github.com/DaniilSydorenko/haversine-geolocation)** · *Public — GitHub `v2.0.0-beta.1`*  
+  Original geolocation OSS package; TypeScript V2 beta on GitHub, consumer/browser compatibility checks and a distinct legacy migration boundary.
+
+- 🛠 **Ladvero** · *Private alpha*  
+  AI-assisted product workflow: photos → draft → suggestions → human review → export.
+
+- 🧪 **Engineering Labs** · *Active · private*  
+  Deliberate systems practice organized as `Mission → Stage → Scenario → Task`.
+
+- 🧠 **Engineering Handbook** · *Active · private*  
+  Canonical engineering theory and prerequisites that support deliberate practice.
+
+- 🤖 **Career Intelligence / Career Ecosystem** · *Building · private*  
+  Data, provenance, reconciliation, learning priorities and verified engineering outcomes across the career system.
+
+- ⚙️ **[GitHub Governance](https://github.com/DaniilSydorenko/.github)** · *Public · active*  
+  Git-native repository standards, policy-as-code, exact-head safety, publication boundaries and controlled automation.
 
 > Some current projects remain private while their public boundaries, documentation, security, and release surfaces are being prepared. I prefer publishing evolving work **honestly** rather than presenting unfinished systems as finished products.
 
